@@ -4,3 +4,4 @@ In this project, I create a Data Pipeline with various AWS services and Apache p
 
 
 # Architecture
+![](https://github.com/d-owusu/AWS-Pipeline-Nifi-Spark-ELKStack/blob/main/images/architecture.png)
